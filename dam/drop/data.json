@@ -5628,6 +5628,1305 @@
 		},
 		{
 			"airport": "Nyac Airport ( ZNC ), Nyac , US"
+		},
+		{
+			"airport": "Saglek Airport ( YSV ), Saglek , CA"
+		},
+		{
+			"airport": "Stuart Island Airstrip ( YRR ), Big Bay , CA"
+		},
+		{
+			"airport": "Mary River Aerodrome ( YMV ), Mary River , CA"
+		},
+		{
+			"airport": "Trail Airport ( YZZ ), Trail , CA"
+		},
+		{
+			"airport": "Merritt Airport ( YMB ), Merritt , CA"
+		},
+		{
+			"airport": "Chilko Lake (Tsylos Park Lodge) Airport ( CJH ), Chilko Lake , CA"
+		},
+		{
+			"airport": "Courtenay Airpark ( YCA ), Courtenay , CA"
+		},
+		{
+			"airport": "Creston Valley Regional Airport - Art Sutcliffe Field ( CFQ ), Creston , CA"
+		},
+		{
+			"airport": "Anahim Lake Airport ( YAA ), Anahim Lake , CA"
+		},
+		{
+			"airport": "Douglas Lake Airport ( DGF ), Douglas Lake , CA"
+		},
+		{
+			"airport": "Fort MacKay/Albian Aerodrome ( JHL ), Albian Village , CA"
+		},
+		{
+			"airport": "Duncan Airport ( DUQ ), Duncan , CA"
+		},
+		{
+			"airport": "Sechelt-Gibsons Airport ( YHS ), Sechelt , CA"
+		},
+		{
+			"airport": "Qualicum Beach Airport ( XQU ), Qualicum Beach , CA"
+		},
+		{
+			"airport": "Port Mcneill Airport ( YMP ), Port Mcneill , CA"
+		},
+		{
+			"airport": "Cache Creek-Ashcroft Regional Airport ( YZA ), Cache Creek , CA"
+		},
+		{
+			"airport": "Bella Bella (Campbell Island) Airport ( ZEL ), Bella Bella , CA"
+		},
+		{
+			"airport": "Alberni Valley Regional Airport ( YPB ), Port Alberni , CA"
+		},
+		{
+			"airport": "Bob Quinn Lake Airport ( YBO ), Bob Quinn Lake , CA"
+		},
+		{
+			"airport": "Tungsten (Cantung) Airport ( TNS ), Tungsten , CA"
+		},
+		{
+			"airport": "Tumbler Ridge Airport ( TUX ), Tumbler Ridge , CA"
+		},
+		{
+			"airport": "Williams Harbour Airport ( YWM ), Williams Harbour , CA"
+		},
+		{
+			"airport": "Postville Airport ( YSO ), Postville , CA"
+		},
+		{
+			"airport": "Black Tickle Airport ( YBI ), Black Tickle , CA"
+		},
+		{
+			"airport": "St. Lewis (Fox Harbour) Airport ( YFX ), St. Lewis , CA"
+		},
+		{
+			"airport": "Port Hope Simpson Airport ( YHA ), Port Hope Simpson , CA"
+		},
+		{
+			"airport": "Rigolet Airport ( YRG ), Rigolet , CA"
+		},
+		{
+			"airport": "Diavik Airport ( DVK ), Diavik , CA"
+		},
+		{
+			"airport": "Doris Lake ( JOJ ), Hope Bay , CA"
+		},
+		{
+			"airport": "Fairview Airport ( ZFW ), Fairview , CA"
+		},
+		{
+			"airport": "Jasper-Hinton Airport ( YJP ), Hinton , CA"
+		},
+		{
+			"airport": "Whatì Airport ( YLE ), Whatì , CA"
+		},
+		{
+			"airport": "Drayton Valley Industrial Airport ( YDC ), Drayton Valley , CA"
+		},
+		{
+			"airport": "Fort McMurray / Mildred Lake Airport ( NML ), Fort McMurray , CA"
+		},
+		{
+			"airport": "Conklin (Leismer) Airport ( CFM ), Conklin , CA"
+		},
+		{
+			"airport": "St. Paul Airport ( ZSP ), St. Paul , CA"
+		},
+		{
+			"airport": "Taltheilei Narrows Airport ( GSL ), Taltheilei Narrows , CA"
+		},
+		{
+			"airport": "Macmillan Pass Airport ( XMP ), Macmillan Pass , CA"
+		},
+		{
+			"airport": "Great Bear Lake Airport ( DAS ), Great Bear Lake , CA"
+		},
+		{
+			"airport": "Fort Mackay / Firebag ( YFI ), Suncor Energy Site , CA"
+		},
+		{
+			"airport": "Wekweètì Airport ( YFJ ), Wekweètì , CA"
+		},
+		{
+			"airport": "Donnelly Airport ( YOE ), Donnelly , CA"
+		},
+		{
+			"airport": "Cheadle Airport ( TIL ), Cheadle , CA"
+		},
+		{
+			"airport": "Gahcho Kue ( GHK ), , CA"
+		},
+		{
+			"airport": "Laurie River Airport ( LRQ ), Laurie River , CA"
+		},
+		{
+			"airport": "Hatchet Lake Airport ( YDJ ), Hatchet Lake , CA"
+		},
+		{
+			"airport": "Kasba Lake Airport ( YDU ), Kasba Lake , CA"
+		},
+		{
+			"airport": "Cluff Lake Airport ( XCL ), Cluff Lake , CA"
+		},
+		{
+			"airport": "Knee Lake Airport ( YKE ), Knee Lake , CA"
+		},
+		{
+			"airport": "Summer Beaver Airport ( SUR ), Summer Beaver , CA"
+		},
+		{
+			"airport": "Tisdale Airport ( YTT ), Tisdale , CA"
+		},
+		{
+			"airport": "Wapekeka Airport ( YAX ), Angling Lake , CA"
+		},
+		{
+			"airport": "Wunnumin Lake Airport ( WNN ), Wunnumin Lake , CA"
+		},
+		{
+			"airport": "Opapimiskan Lake Airport ( YBS ), Opapimiskan Lake , CA"
+		},
+		{
+			"airport": "North Spirit Lake Airport ( YNO ), North Spirit Lake , CA"
+		},
+		{
+			"airport": "North of Sixty Airport ( YDW ), Obre Lake , CA"
+		},
+		{
+			"airport": "Bearskin Lake Airport ( XBE ), Bearskin Lake , CA"
+		},
+		{
+			"airport": "Natuashish Airport ( YNP ), Natuashish , CA"
+		},
+		{
+			"airport": "Parry Sound Area Municipal Airport ( YPD ), Parry Sound , CA"
+		},
+		{
+			"airport": "Brockville - Thousand Islands Regional Tackaberry Airport ( XBR ), Brockville , CA"
+		},
+		{
+			"airport": "Kingfisher Lake Airport ( KIF ), Kingfisher Lake , CA"
+		},
+		{
+			"airport": "Ogoki Post Airport ( YOG ), Ogoki Post , CA"
+		},
+		{
+			"airport": "Bar River Airport ( YEB ), Bar River , CA"
+		},
+		{
+			"airport": "Poplar Hill Airport ( YHP ), Poplar Hill , CA"
+		},
+		{
+			"airport": "Keewaywin Airport ( KEW ), Keewaywin , CA"
+		},
+		{
+			"airport": "Kirby Lake Airport ( KFM ), Kirby Lake , CA"
+		},
+		{
+			"airport": "Sable Island Landing Strip ( YSA ), Sable Island , CA"
+		},
+		{
+			"airport": "Lebel-sur-Quevillon Airport ( YLS ), Lebel-sur-Quévillon , CA"
+		},
+		{
+			"airport": "Snap Lake Airport ( YNX ), Snap Lake Mine , CA"
+		},
+		{
+			"airport": "La Sarre Airport ( SSQ ), La Sarre , CA"
+		},
+		{
+			"airport": "Chisasibi Airport ( YKU ), Chisasibi , CA"
+		},
+		{
+			"airport": "Tête-à-la-Baleine Airport ( ZTB ), Tête-à-la-Baleine , CA"
+		},
+		{
+			"airport": "Kegaska Airport ( ZKG ), Kegaska , CA"
+		},
+		{
+			"airport": "Donaldson Airport ( YAU ), Kattiniq , CA"
+		},
+		{
+			"airport": "La Romaine Airport ( ZGS ), La Romaine , CA"
+		},
+		{
+			"airport": "Fontanges Airport ( YFG ), Fontanges , CA"
+		},
+		{
+			"airport": "La Tabatière Airport ( ZLT ), La Tabatière , CA"
+		},
+		{
+			"airport": "Arctic Bay Airport ( YAB ), Arctic Bay , CA"
+		},
+		{
+			"airport": "Cat Lake Airport ( YAC ), Cat Lake , CA"
+		},
+		{
+			"airport": "La Grande-3 Airport ( YAR ), La Grande-3 , CA"
+		},
+		{
+			"airport": "Fort Frances Municipal Airport ( YAG ), Fort Frances , CA"
+		},
+		{
+			"airport": "La Grande-4 Airport ( YAH ), La Grande-4 , CA"
+		},
+		{
+			"airport": "Alert Bay Airport ( YAL ), Alert Bay , CA"
+		},
+		{
+			"airport": "Sault Ste Marie Airport ( YAM ), Sault Ste Marie , CA"
+		},
+		{
+			"airport": "Kasabonika Airport ( XKS ), Kasabonika , CA"
+		},
+		{
+			"airport": "Kangirsuk Airport ( YKG ), Kangirsuk , CA"
+		},
+		{
+			"airport": "Attawapiskat Airport ( YAT ), Attawapiskat , CA"
+		},
+		{
+			"airport": "St. Anthony Airport ( YAY ), St. Anthony , CA"
+		},
+		{
+			"airport": "Tofino / Long Beach Airport ( YAZ ), Tofino , CA"
+		},
+		{
+			"airport": "Banff Airport ( YBA ), Banff , CA"
+		},
+		{
+			"airport": "Kugaaruk Airport ( YBB ), Kugaaruk , CA"
+		},
+		{
+			"airport": "Baie-Comeau Airport ( YBC ), Baie-Comeau , CA"
+		},
+		{
+			"airport": "Bella Coola Airport ( QBC ), Bella Coola , CA"
+		},
+		{
+			"airport": "Uranium City Airport ( YBE ), Uranium City , CA"
+		},
+		{
+			"airport": "Bonnyville Airport ( YBY ), Bonnyville , CA"
+		},
+		{
+			"airport": "CFB Bagotville ( YBG ), Bagotville , CA"
+		},
+		{
+			"airport": "Baker Lake Airport ( YBK ), Baker Lake , CA"
+		},
+		{
+			"airport": "Campbell River Airport ( YBL ), Campbell River , CA"
+		},
+		{
+			"airport": "Tadoule Lake Airport ( XTL ), Tadoule Lake , CA"
+		},
+		{
+			"airport": "Brandon Municipal Airport ( YBR ), Brandon , CA"
+		},
+		{
+			"airport": "Brochet Airport ( YBT ), Brochet , CA"
+		},
+		{
+			"airport": "Berens River Airport ( YBV ), Berens River , CA"
+		},
+		{
+			"airport": "Lourdes-de-Blanc-Sablon Airport ( YBX ), Blanc-Sablon , CA"
+		},
+		{
+			"airport": "Cartwright Airport ( YRF ), Cartwright , CA"
+		},
+		{
+			"airport": "Cambridge Bay Airport ( YCB ), Cambridge Bay , CA"
+		},
+		{
+			"airport": "Cornwall Regional Airport ( YCC ), Cornwall , CA"
+		},
+		{
+			"airport": "Nanaimo Airport ( YCD ), Nanaimo , CA"
+		},
+		{
+			"airport": "Centralia / James T. Field Memorial Aerodrome ( YCE ), Huron Park , CA"
+		},
+		{
+			"airport": "Castlegar/West Kootenay Regional Airport ( YCG ), Castlegar , CA"
+		},
+		{
+			"airport": "Miramichi Airport ( YCH ), Miramichi , CA"
+		},
+		{
+			"airport": "Chatham Kent Airport ( XCM ), Chatham-Kent , CA"
+		},
+		{
+			"airport": "Charlo Airport ( YCL ), Charlo , CA"
+		},
+		{
+			"airport": "Cochrane Airport ( YCN ), Cochrane , CA"
+		},
+		{
+			"airport": "Kugluktuk Airport ( YCO ), Kugluktuk , CA"
+		},
+		{
+			"airport": "Chetwynd Airport ( YCQ ), Chetwynd , CA"
+		},
+		{
+			"airport": "Cross Lake (Charlie Sinclair Memorial) Airport ( YCR ), Cross Lake , CA"
+		},
+		{
+			"airport": "Chesterfield Inlet Airport ( YCS ), Chesterfield Inlet , CA"
+		},
+		{
+			"airport": "Coronation Airport ( YCT ), Coronation , CA"
+		},
+		{
+			"airport": "Chilliwack Airport ( YCW ), Chilliwack , CA"
+		},
+		{
+			"airport": "Clyde River Airport ( YCY ), Clyde River , CA"
+		},
+		{
+			"airport": "Fairmont Hot Springs Airport ( YCZ ), Fairmont Hot Springs , CA"
+		},
+		{
+			"airport": "Dawson City Airport ( YDA ), Dawson City , CA"
+		},
+		{
+			"airport": "Burwash Airport ( YDB ), Burwash Landing , CA"
+		},
+		{
+			"airport": "Deer Lake Airport ( YDF ), Deer Lake , CA"
+		},
+		{
+			"airport": "Dease Lake Airport ( YDL ), Dease Lake , CA"
+		},
+		{
+			"airport": "Ross River Airport ( XRR ), Ross River , CA"
+		},
+		{
+			"airport": "Dauphin Barker Airport ( YDN ), Dauphin , CA"
+		},
+		{
+			"airport": "Dolbeau St Felicien Airport ( YDO ), Dolbeau-St-Félicien , CA"
+		},
+		{
+			"airport": "Nain Airport ( YDP ), Nain , CA"
+		},
+		{
+			"airport": "Dawson Creek Airport ( YDQ ), Dawson Creek , CA"
+		},
+		{
+			"airport": "Edmonton International Airport ( YEG ), Edmonton , CA"
+		},
+		{
+			"airport": "Arviat Airport ( YEK ), Arviat , CA"
+		},
+		{
+			"airport": "Elliot Lake Municipal Airport ( YEL ), Elliot Lake , CA"
+		},
+		{
+			"airport": "Manitoulin East Municipal Airport ( YEM ), Sheguiandah , CA"
+		},
+		{
+			"airport": "Estevan Airport ( YEN ), Estevan , CA"
+		},
+		{
+			"airport": "Fort Severn Airport ( YER ), Fort Severn , CA"
+		},
+		{
+			"airport": "Edson Airport ( YET ), Edson , CA"
+		},
+		{
+			"airport": "Eureka Airport ( YEU ), Eureka , CA"
+		},
+		{
+			"airport": "Inuvik Mike Zubko Airport ( YEV ), Inuvik , CA"
+		},
+		{
+			"airport": "Amos/Magny Airport ( YEY ), Amos , CA"
+		},
+		{
+			"airport": "Fort Albany Airport ( YFA ), Fort Albany , CA"
+		},
+		{
+			"airport": "Iqaluit Airport ( YFB ), Iqaluit , CA"
+		},
+		{
+			"airport": "Fredericton Airport ( YFC ), Fredericton , CA"
+		},
+		{
+			"airport": "Forestville Airport ( YFE ), Forestville , CA"
+		},
+		{
+			"airport": "Fort Hope Airport ( YFH ), Fort Hope , CA"
+		},
+		{
+			"airport": "Mont-Tremblant International Airport ( YTM ), La Macaza , CA"
+		},
+		{
+			"airport": "Flin Flon Airport ( YFO ), Flin Flon , CA"
+		},
+		{
+			"airport": "Fort Resolution Airport ( YFR ), Fort Resolution , CA"
+		},
+		{
+			"airport": "Fort Simpson Airport ( YFS ), Fort Simpson , CA"
+		},
+		{
+			"airport": "Makkovik Airport ( YMN ), Makkovik , CA"
+		},
+		{
+			"airport": "Texada Gillies Bay Airport ( YGB ), Texada , CA"
+		},
+		{
+			"airport": "Fort Good Hope Airport ( YGH ), Fort Good Hope , CA"
+		},
+		{
+			"airport": "Kingston Norman Rogers Airport ( YGK ), Kingston , CA"
+		},
+		{
+			"airport": "La Grande Rivière Airport ( YGL ), La Grande Rivière , CA"
+		},
+		{
+			"airport": "Gimli Industrial Park Airport ( YGM ), Gimli , CA"
+		},
+		{
+			"airport": "Gods Lake Narrows Airport ( YGO ), Gods Lake Narrows , CA"
+		},
+		{
+			"airport": "Gaspé (Michel-Pouliot) Airport ( YGP ), Gaspé , CA"
+		},
+		{
+			"airport": "Geraldton Greenstone Regional Airport ( YGQ ), Geraldton , CA"
+		},
+		{
+			"airport": "Îles-de-la-Madeleine Airport ( YGR ), Les Îles-de-la-Madeleine , CA"
+		},
+		{
+			"airport": "Igloolik Airport ( YGT ), Igloolik , CA"
+		},
+		{
+			"airport": "Havre-Saint-Pierre Airport ( YGV ), Havre-Saint-Pierre , CA"
+		},
+		{
+			"airport": "Kuujjuarapik Airport ( YGW ), Kuujjuarapik , CA"
+		},
+		{
+			"airport": "Gillam Airport ( YGX ), Gillam , CA"
+		},
+		{
+			"airport": "Grise Fiord Airport ( YGZ ), Grise Fiord , CA"
+		},
+		{
+			"airport": "Quaqtaq Airport ( YQC ), Quaqtaq , CA"
+		},
+		{
+			"airport": "Hudson Bay Airport ( YHB ), Hudson Bay , CA"
+		},
+		{
+			"airport": "Dryden Regional Airport ( YHD ), Dryden , CA"
+		},
+		{
+			"airport": "Hope Airport / FVRD Regional Airpark ( YHE ), Hope , CA"
+		},
+		{
+			"airport": "Hearst René Fontaine Municipal Airport ( YHF ), Hearst , CA"
+		},
+		{
+			"airport": "Nemiscau Airport ( YNS ), Nemiscau , CA"
+		},
+		{
+			"airport": "Ulukhaktok Holman Airport ( YHI ), Ulukhaktok , CA"
+		},
+		{
+			"airport": "Gjoa Haven Airport ( YHK ), Gjoa Haven , CA"
+		},
+		{
+			"airport": "John C. Munro Hamilton International Airport ( YHM ), Hamilton , CA"
+		},
+		{
+			"airport": "Hornepayne Municipal Airport ( YHN ), Hornepayne , CA"
+		},
+		{
+			"airport": "Hopedale Airport ( YHO ), Hopedale , CA"
+		},
+		{
+			"airport": "Chevery Airport ( YHR ), Chevery , CA"
+		},
+		{
+			"airport": "Haines Junction Airport ( YHT ), Haines Junction , CA"
+		},
+		{
+			"airport": "Montréal / Saint-Hubert Airport ( YHU ), Montréal , CA"
+		},
+		{
+			"airport": "Hay River / Merlyn Carter Airport ( YHY ), Hay River , CA"
+		},
+		{
+			"airport": "Halifax / Stanfield International Airport ( YHZ ), Halifax , CA"
+		},
+		{
+			"airport": "Atikokan Municipal Airport ( YIB ), Atikokan , CA"
+		},
+		{
+			"airport": "Digby / Annapolis Regional Airport ( YDG ), Digby , CA"
+		},
+		{
+			"airport": "St Augustin Airport ( YIF ), St-Augustin , CA"
+		},
+		{
+			"airport": "Ivujivik Airport ( YIK ), Ivujivik , CA"
+		},
+		{
+			"airport": "Pond Inlet Airport ( YIO ), Pond Inlet , CA"
+		},
+		{
+			"airport": "Island Lake Airport ( YIV ), Island Lake , CA"
+		},
+		{
+			"airport": "Jasper Airport ( YJA ), Jasper , CA"
+		},
+		{
+			"airport": "Fort Liard Airport ( YJF ), Fort Liard , CA"
+		},
+		{
+			"airport": "St Jean Airport ( YJN ), St Jean , CA"
+		},
+		{
+			"airport": "Stephenville Airport ( YJT ), Stephenville , CA"
+		},
+		{
+			"airport": "Kamloops Airport ( YKA ), Kamloops , CA"
+		},
+		{
+			"airport": "Collins Bay Airport ( YKC ), Collins Bay , CA"
+		},
+		{
+			"airport": "Aklavik/Freddie Carmichael Airport ( LAK ), Aklavik , CA"
+		},
+		{
+			"airport": "Waterloo Airport ( YKF ), Kitchener , CA"
+		},
+		{
+			"airport": "Kangiqsujuaq (Wakeham Bay) Airport ( YWB ), Kangiqsujuaq , CA"
+		},
+		{
+			"airport": "Key Lake Airport ( YKJ ), Key Lake , CA"
+		},
+		{
+			"airport": "Schefferville Airport ( YKL ), Schefferville , CA"
+		},
+		{
+			"airport": "Kincardine Municipal Airport ( YKD ), Kincardine , CA"
+		},
+		{
+			"airport": "Akulivik Airport ( AKV ), Akulivik , CA"
+		},
+		{
+			"airport": "Waskaganish Airport ( YKQ ), Waskaganish , CA"
+		},
+		{
+			"airport": "Kirkland Lake Airport ( YKX ), Kirkland Lake , CA"
+		},
+		{
+			"airport": "Kindersley Airport ( YKY ), Kindersley , CA"
+		},
+		{
+			"airport": "Buttonville Municipal Airport ( YKZ ), Toronto , CA"
+		},
+		{
+			"airport": "Aupaluk Airport ( YPJ ), Aupaluk , CA"
+		},
+		{
+			"airport": "Lac La Biche Airport ( YLB ), Lac La Biche , CA"
+		},
+		{
+			"airport": "Kimmirut Airport ( YLC ), Kimmirut , CA"
+		},
+		{
+			"airport": "Chapleau Airport ( YLD ), Chapleau , CA"
+		},
+		{
+			"airport": "Lansdowne House Airport ( YLH ), Lansdowne House , CA"
+		},
+		{
+			"airport": "Meadow Lake Airport ( YLJ ), Meadow Lake , CA"
+		},
+		{
+			"airport": "Lutselk'e Airport ( YSG ), Lutselk'e , CA"
+		},
+		{
+			"airport": "Lloydminster Airport ( YLL ), Lloydminster , CA"
+		},
+		{
+			"airport": "La Tuque Airport ( YLQ ), La Tuque , CA"
+		},
+		{
+			"airport": "Leaf Rapids Airport ( YLR ), Leaf Rapids , CA"
+		},
+		{
+			"airport": "Barrie-Lake Simcoe Regional Airport ( YLK ), Barrie , CA"
+		},
+		{
+			"airport": "Alert Airport ( YLT ), Alert , CA"
+		},
+		{
+			"airport": "Kangiqsualujjuaq (Georges River) Airport ( XGR ), Kangiqsualujjuaq , CA"
+		},
+		{
+			"airport": "Kelowna International Airport ( YLW ), Kelowna , CA"
+		},
+		{
+			"airport": "Mayo Airport ( YMA ), Mayo , CA"
+		},
+		{
+			"airport": "Matane Airport ( YME ), Matane , CA"
+		},
+		{
+			"airport": "Manitouwadge Airport ( YMG ), Manitouwadge , CA"
+		},
+		{
+			"airport": "Mary's Harbour Airport ( YMH ), Mary's Harbour , CA"
+		},
+		{
+			"airport": "Moose Jaw Air Vice Marshal C. M. McEwen Airport ( YMJ ), Moose Jaw , CA"
+		},
+		{
+			"airport": "Charlevoix Airport ( YML ), Charlevoix , CA"
+		},
+		{
+			"airport": "Fort McMurray Airport ( YMM ), Fort McMurray , CA"
+		},
+		{
+			"airport": "Moosonee Airport ( YMO ), Moosonee , CA"
+		},
+		{
+			"airport": "Chapais Airport ( YMT ), Chibougamau , CA"
+		},
+		{
+			"airport": "Umiujaq Airport ( YUD ), Umiujaq , CA"
+		},
+		{
+			"airport": "Maniwaki Airport ( YMW ), Maniwaki , CA"
+		},
+		{
+			"airport": "Montreal International (Mirabel) Airport ( YMX ), Montréal , CA"
+		},
+		{
+			"airport": "Natashquan Airport ( YNA ), Natashquan , CA"
+		},
+		{
+			"airport": "Wemindji Airport ( YNC ), Wemindji , CA"
+		},
+		{
+			"airport": "Ottawa / Gatineau Airport ( YND ), Gatineau , CA"
+		},
+		{
+			"airport": "Norway House Airport ( YNE ), Norway House , CA"
+		},
+		{
+			"airport": "Hudsons Hope Airport ( YNH ), Hudson's Hope , CA"
+		},
+		{
+			"airport": "Langley Airport ( YLY ), Langley Twp , CA"
+		},
+		{
+			"airport": "Points North Landing Airport ( YNL ), Points North Landing , CA"
+		},
+		{
+			"airport": "Matagami Airport ( YNM ), Matagami , CA"
+		},
+		{
+			"airport": "Fort Mackay / Horizon Airport ( HZP ), Fort Mackay , CA"
+		},
+		{
+			"airport": "Ekati Airport ( YOA ), Ekati , CA"
+		},
+		{
+			"airport": "Old Crow Airport ( YOC ), Old Crow , CA"
+		},
+		{
+			"airport": "CFB Cold Lake ( YOD ), Cold Lake , CA"
+		},
+		{
+			"airport": "Oxford House Airport ( YOH ), Oxford House , CA"
+		},
+		{
+			"airport": "High Level Airport ( YOJ ), High Level , CA"
+		},
+		{
+			"airport": "Oshawa Executive Airport ( YOO ), Oshawa , CA"
+		},
+		{
+			"airport": "Rainbow Lake Airport ( YOP ), Rainbow Lake , CA"
+		},
+		{
+			"airport": "Owen Sound / Billy Bishop Regional Airport ( YOS ), Owen Sound , CA"
+		},
+		{
+			"airport": "Ottawa Macdonald-Cartier International Airport ( YOW ), Ottawa , CA"
+		},
+		{
+			"airport": "Prince Albert Glass Field ( YPA ), Prince Albert , CA"
+		},
+		{
+			"airport": "Paulatuk (Nora Aliqatchialuk Ruben) Airport ( YPC ), Paulatuk , CA"
+		},
+		{
+			"airport": "Port Hawkesbury Airport ( YPS ), Port Hawkesbury , CA"
+		},
+		{
+			"airport": "Peace River Airport ( YPE ), Peace River , CA"
+		},
+		{
+			"airport": "Portage-la-Prairie / Southport Airport ( YPG ), Portage la Prairie , CA"
+		},
+		{
+			"airport": "Inukjuak Airport ( YPH ), Inukjuak , CA"
+		},
+		{
+			"airport": "Pickle Lake Airport ( YPL ), Pickle Lake , CA"
+		},
+		{
+			"airport": "Pikangikum Airport ( YPM ), Pikangikum , CA"
+		},
+		{
+			"airport": "Port Menier Airport ( YPN ), Port-Menier , CA"
+		},
+		{
+			"airport": "Peawanuck Airport ( YPO ), Peawanuck , CA"
+		},
+		{
+			"airport": "Peterborough Municipal Airport ( YPQ ), Peterborough , CA"
+		},
+		{
+			"airport": "Prince Rupert Airport ( YPR ), Prince Rupert , CA"
+		},
+		{
+			"airport": "Powell River Airport ( YPW ), Powell River , CA"
+		},
+		{
+			"airport": "Puvirnituq Airport ( YPX ), Puvirnituq , CA"
+		},
+		{
+			"airport": "Fort Chipewyan Airport ( YPY ), Fort Chipewyan , CA"
+		},
+		{
+			"airport": "Burns Lake Airport ( YPZ ), Burns Lake , CA"
+		},
+		{
+			"airport": "Muskoka Airport ( YQA ), Muskoka , CA"
+		},
+		{
+			"airport": "Quebec Jean Lesage International Airport ( YQB ), Quebec , CA"
+		},
+		{
+			"airport": "The Pas Airport ( YQD ), The Pas , CA"
+		},
+		{
+			"airport": "Red Deer Regional Airport ( YQF ), Springbrook , CA"
+		},
+		{
+			"airport": "Windsor Airport ( YQG ), Windsor , CA"
+		},
+		{
+			"airport": "Watson Lake Airport ( YQH ), Watson Lake , CA"
+		},
+		{
+			"airport": "Yarmouth Airport ( YQI ), Yarmouth , CA"
+		},
+		{
+			"airport": "Kenora Airport ( YQK ), Kenora , CA"
+		},
+		{
+			"airport": "Lethbridge County Airport ( YQL ), Lethbridge , CA"
+		},
+		{
+			"airport": "Greater Moncton Roméo LeBlanc International Airport ( YQM ), Moncton , CA"
+		},
+		{
+			"airport": "Nakina Airport ( YQN ), Nakina , CA"
+		},
+		{
+			"airport": "Comox Valley Airport / CFB Comox ( YQQ ), Comox , CA"
+		},
+		{
+			"airport": "Regina International Airport ( YQR ), Regina , CA"
+		},
+		{
+			"airport": "St Thomas Municipal Airport ( YQS ), St Thomas , CA"
+		},
+		{
+			"airport": "Thunder Bay Airport ( YQT ), Thunder Bay , CA"
+		},
+		{
+			"airport": "Grande Prairie Airport ( YQU ), Grande Prairie , CA"
+		},
+		{
+			"airport": "Yorkton Municipal Airport ( YQV ), Yorkton , CA"
+		},
+		{
+			"airport": "North Battleford Airport ( YQW ), North Battleford , CA"
+		},
+		{
+			"airport": "Gander International Airport / CFB Gander ( YQX ), Gander , CA"
+		},
+		{
+			"airport": "Sydney / J.A. Douglas McCurdy Airport ( YQY ), Sydney , CA"
+		},
+		{
+			"airport": "Quesnel Airport ( YQZ ), Quesnel , CA"
+		},
+		{
+			"airport": "Rae Lakes Airport ( YRA ), Gamètì , CA"
+		},
+		{
+			"airport": "Resolute Bay Airport ( YRB ), Resolute Bay , CA"
+		},
+		{
+			"airport": "Rivière-du-Loup Airport ( YRI ), Rivière-du-Loup , CA"
+		},
+		{
+			"airport": "Roberval Airport ( YRJ ), Roberval , CA"
+		},
+		{
+			"airport": "Red Lake Airport ( YRL ), Red Lake , CA"
+		},
+		{
+			"airport": "Rocky Mountain House Airport ( YRM ), Rocky Mountain House , CA"
+		},
+		{
+			"airport": "Ottawa / Rockcliffe Airport ( YRO ), Ottawa , CA"
+		},
+		{
+			"airport": "Trois-Rivières Airport ( YRQ ), Trois-Rivières , CA"
+		},
+		{
+			"airport": "Red Sucker Lake Airport ( YRS ), Red Sucker Lake , CA"
+		},
+		{
+			"airport": "Rankin Inlet Airport ( YRT ), Rankin Inlet , CA"
+		},
+		{
+			"airport": "Revelstoke Airport ( YRV ), Revelstoke , CA"
+		},
+		{
+			"airport": "Sudbury Airport ( YSB ), Sudbury , CA"
+		},
+		{
+			"airport": "Sherbrooke Airport ( YSC ), Sherbrooke , CA"
+		},
+		{
+			"airport": "Squamish Airport ( YSE ), Squamish , CA"
+		},
+		{
+			"airport": "Stony Rapids Airport ( YSF ), Stony Rapids , CA"
+		},
+		{
+			"airport": "Smiths Falls-Montague (Russ Beach) Airport ( YSH ), Smiths Falls , CA"
+		},
+		{
+			"airport": "Saint John Airport ( YSJ ), Saint John , CA"
+		},
+		{
+			"airport": "Sanikiluaq Airport ( YSK ), Sanikiluaq , CA"
+		},
+		{
+			"airport": "Saint-Léonard Airport ( YSL ), Saint-Léonard , CA"
+		},
+		{
+			"airport": "Fort Smith Airport ( YSM ), Fort Smith , CA"
+		},
+		{
+			"airport": "Niagara District Airport ( YCM ), St Catharines , CA"
+		},
+		{
+			"airport": "Marathon Airport ( YSP ), Marathon , CA"
+		},
+		{
+			"airport": "St. Theresa Point Airport ( YST ), St. Theresa Point , CA"
+		},
+		{
+			"airport": "Summerside Airport ( YSU ), Slemon Park , CA"
+		},
+		{
+			"airport": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport ( YSY ), Sachs Harbour , CA"
+		},
+		{
+			"airport": "Pembroke Airport ( YTA ), Pembroke , CA"
+		},
+		{
+			"airport": "Cape Dorset Airport ( YTE ), Kinngait , CA"
+		},
+		{
+			"airport": "Alma Airport ( YTF ), Alma , CA"
+		},
+		{
+			"airport": "Thompson Airport ( YTH ), Thompson , CA"
+		},
+		{
+			"airport": "Big Trout Lake Airport ( YTL ), Big Trout Lake , CA"
+		},
+		{
+			"airport": "Tasiujaq Airport ( YTQ ), Tasiujaq , CA"
+		},
+		{
+			"airport": "CFB Trenton ( YTR ), Trenton , CA"
+		},
+		{
+			"airport": "Timmins/Victor M. Power ( YTS ), Timmins , CA"
+		},
+		{
+			"airport": "Billy Bishop Toronto City Centre Airport ( YTZ ), Toronto , CA"
+		},
+		{
+			"airport": "Tuktoyaktuk / James Gruben Airport ( YUB ), Tuktoyaktuk , CA"
+		},
+		{
+			"airport": "Montreal / Pierre Elliott Trudeau International Airport ( YUL ), Montréal , CA"
+		},
+		{
+			"airport": "Naujaat Airport ( YUT ), Repulse Bay , CA"
+		},
+		{
+			"airport": "Hall Beach Airport ( YUX ), Sanirajak , CA"
+		},
+		{
+			"airport": "Rouyn Noranda Airport ( YUY ), Rouyn-Noranda , CA"
+		},
+		{
+			"airport": "Bonaventure Airport ( YVB ), Bonaventure , CA"
+		},
+		{
+			"airport": "La Ronge Airport ( YVC ), La Ronge , CA"
+		},
+		{
+			"airport": "Vermilion Airport ( YVG ), Vermilion , CA"
+		},
+		{
+			"airport": "Vernon Airport ( YVE ), Vernon , CA"
+		},
+		{
+			"airport": "Tommy Kochon Airport ( YCK ), Colville Lake , CA"
+		},
+		{
+			"airport": "Qikiqtarjuaq Airport ( YVM ), Qikiqtarjuaq , CA"
+		},
+		{
+			"airport": "Val-d'Or Airport ( YVO ), Val-d'Or , CA"
+		},
+		{
+			"airport": "Kuujjuaq Airport ( YVP ), Kuujjuaq , CA"
+		},
+		{
+			"airport": "Norman Wells Airport ( YVQ ), Norman Wells , CA"
+		},
+		{
+			"airport": "Vancouver International Airport ( YVR ), Vancouver , CA"
+		},
+		{
+			"airport": "Buffalo Narrows Airport ( YVT ), Buffalo Narrows , CA"
+		},
+		{
+			"airport": "Wiarton Airport ( YVV ), Wiarton , CA"
+		},
+		{
+			"airport": "Deer Lake Airport ( YVZ ), Deer Lake , CA"
+		},
+		{
+			"airport": "Petawawa Airport ( YWA ), Petawawa , CA"
+		},
+		{
+			"airport": "Winnipeg / James Armstrong Richardson International Airport ( YWG ), Winnipeg , CA"
+		},
+		{
+			"airport": "Déline Airport ( YWJ ), Déline , CA"
+		},
+		{
+			"airport": "Wabush Airport ( YWK ), Wabush , CA"
+		},
+		{
+			"airport": "Williams Lake Airport ( YWL ), Williams Lake , CA"
+		},
+		{
+			"airport": "Webequie Airport ( YWP ), Webequie , CA"
+		},
+		{
+			"airport": "Wrigley Airport ( YWY ), Wrigley , CA"
+		},
+		{
+			"airport": "Cranbrook/Canadian Rockies International Airport ( YXC ), Cranbrook , CA"
+		},
+		{
+			"airport": "Saskatoon John G. Diefenbaker International Airport ( YXE ), Saskatoon , CA"
+		},
+		{
+			"airport": "Medicine Hat Regional Airport ( YXH ), Medicine Hat , CA"
+		},
+		{
+			"airport": "Fort St John Airport ( YXJ ), Fort St.John , CA"
+		},
+		{
+			"airport": "Rimouski Airport ( YXK ), Rimouski , CA"
+		},
+		{
+			"airport": "Sioux Lookout Airport ( YXL ), Sioux Lookout , CA"
+		},
+		{
+			"airport": "Whale Cove Airport ( YXN ), Whale Cove , CA"
+		},
+		{
+			"airport": "Pangnirtung Airport ( YXP ), Pangnirtung , CA"
+		},
+		{
+			"airport": "Beaver Creek Airport ( YXQ ), Beaver Creek , CA"
+		},
+		{
+			"airport": "Earlton (Timiskaming Regional) Airport ( YXR ), Earlton , CA"
+		},
+		{
+			"airport": "Prince George Airport ( YXS ), Prince George , CA"
+		},
+		{
+			"airport": "Northwest Regional Airport Terrace-Kitimat ( YXT ), Terrace , CA"
+		},
+		{
+			"airport": "London Airport ( YXU ), London , CA"
+		},
+		{
+			"airport": "Abbotsford International Airport ( YXX ), Abbotsford , CA"
+		},
+		{
+			"airport": "Whitehorse / Erik Nielsen International Airport ( YXY ), Whitehorse , CA"
+		},
+		{
+			"airport": "Wawa Airport ( YXZ ), Wawa , CA"
+		},
+		{
+			"airport": "North Bay Jack Garland Airport ( YYB ), North Bay , CA"
+		},
+		{
+			"airport": "Calgary International Airport ( YYC ), Calgary , CA"
+		},
+		{
+			"airport": "Smithers Airport ( YYD ), Smithers , CA"
+		},
+		{
+			"airport": "Fort Nelson Airport ( YYE ), Fort Nelson , CA"
+		},
+		{
+			"airport": "Penticton Airport ( YYF ), Penticton , CA"
+		},
+		{
+			"airport": "Charlottetown Airport ( YYG ), Charlottetown , CA"
+		},
+		{
+			"airport": "Taloyoak Airport ( YYH ), Taloyoak , CA"
+		},
+		{
+			"airport": "Victoria International Airport ( YYJ ), Victoria , CA"
+		},
+		{
+			"airport": "Lynn Lake Airport ( YYL ), Lynn Lake , CA"
+		},
+		{
+			"airport": "Cowley Airport ( YYM ), Cowley , CA"
+		},
+		{
+			"airport": "Swift Current Airport ( YYN ), Swift Current , CA"
+		},
+		{
+			"airport": "Churchill Airport ( YYQ ), Churchill , CA"
+		},
+		{
+			"airport": "Goose Bay Airport ( YYR ), Goose Bay , CA"
+		},
+		{
+			"airport": "St. John's International Airport ( YYT ), St. John's , CA"
+		},
+		{
+			"airport": "Kapuskasing Airport ( YYU ), Kapuskasing , CA"
+		},
+		{
+			"airport": "Armstrong Airport ( YYW ), Armstrong , CA"
+		},
+		{
+			"airport": "Mont Joli Airport ( YYY ), Mont-Joli , CA"
+		},
+		{
+			"airport": "Lester B. Pearson International Airport ( YYZ ), Toronto , CA"
+		},
+		{
+			"airport": "Gore Bay Manitoulin Airport ( YZE ), Gore Bay , CA"
+		},
+		{
+			"airport": "Yellowknife International Airport ( YZF ), Yellowknife , CA"
+		},
+		{
+			"airport": "Salluit Airport ( YZG ), Salluit , CA"
+		},
+		{
+			"airport": "Slave Lake Airport ( YZH ), Slave Lake , CA"
+		},
+		{
+			"airport": "Sandspit Airport ( YZP ), Sandspit , CA"
+		},
+		{
+			"airport": "Chris Hadfield Airport ( YZR ), Sarnia , CA"
+		},
+		{
+			"airport": "Coral Harbour Airport ( YZS ), Coral Harbour , CA"
+		},
+		{
+			"airport": "Port Hardy Airport ( YZT ), Port Hardy , CA"
+		},
+		{
+			"airport": "Whitecourt Airport ( YZU ), Whitecourt , CA"
+		},
+		{
+			"airport": "Sept-Îles Airport ( YZV ), Sept-Îles , CA"
+		},
+		{
+			"airport": "Teslin Airport ( YZW ), Teslin , CA"
+		},
+		{
+			"airport": "CFB Greenwood ( YZX ), Greenwood , CA"
+		},
+		{
+			"airport": "York Landing Airport ( ZAC ), York Landing , CA"
+		},
+		{
+			"airport": "Shuswap Regional Airport ( YSN ), Salmon Arm , CA"
+		},
+		{
+			"airport": "Boundary Bay Airport ( YDT ), Delta , CA"
+		},
+		{
+			"airport": "Ilford Airport ( ILF ), Ilford , CA"
+		},
+		{
+			"airport": "Bathurst Airport ( ZBF ), South Tetagouche , CA"
+		},
+		{
+			"airport": "Bromont (Roland Désourdy) Airport ( ZBM ), Bromont , CA"
+		},
+		{
+			"airport": "Kelsey Airport ( KES ), Kelsey , CA"
+		},
+		{
+			"airport": "Eastmain River Airport ( ZEM ), Eastmain River , CA"
+		},
+		{
+			"airport": "Faro Airport ( ZFA ), Faro , CA"
+		},
+		{
+			"airport": "Fond-Du-Lac Airport ( ZFD ), Fond-Du-Lac , CA"
+		},
+		{
+			"airport": "Pukatawagan Airport ( XPK ), Pukatawagan , CA"
+		},
+		{
+			"airport": "Fort Mcpherson Airport ( ZFM ), Fort Mcpherson , CA"
+		},
+		{
+			"airport": "Tulita Airport ( ZFN ), Tulita , CA"
+		},
+		{
+			"airport": "Grand Forks Airport ( ZGF ), Grand Forks , CA"
+		},
+		{
+			"airport": "Gods River Airport ( ZGI ), Gods River , CA"
+		},
+		{
+			"airport": "Little Grand Rapids Airport ( ZGR ), Little Grand Rapids , CA"
+		},
+		{
+			"airport": "High Prairie Airport ( ZHP ), High Prairie , CA"
+		},
+		{
+			"airport": "Jenpeg Airport ( ZJG ), Jenpeg , CA"
+		},
+		{
+			"airport": "Swan River Airport ( ZJN ), Swan River , CA"
+		},
+		{
+			"airport": "Kashechewan Airport ( ZKE ), Kashechewan , CA"
+		},
+		{
+			"airport": "Thicket Portage Airport ( YTD ), Thicket Portage , CA"
+		},
+		{
+			"airport": "Muskrat Dam Airport ( MSA ), Muskrat Dam , CA"
+		},
+		{
+			"airport": "South Cariboo Region / 108 Mile Airport ( ZMH ), 108 Mile , CA"
+		},
+		{
+			"airport": "Pikwitonei Airport ( PIW ), Pikwitonei , CA"
+		},
+		{
+			"airport": "Masset Airport ( ZMT ), Masset , CA"
+		},
+		{
+			"airport": "Poplar River Airport ( XPP ), Poplar River , CA"
+		},
+		{
+			"airport": "Sachigo Lake Airport ( ZPB ), Sachigo Lake , CA"
+		},
+		{
+			"airport": "Pincher Creek Airport ( WPC ), Pincher Creek , CA"
+		},
+		{
+			"airport": "Pinehouse Lake Airport ( ZPO ), Pinehouse Lake , CA"
+		},
+		{
+			"airport": "Round Lake (Weagamow Lake) Airport ( ZRJ ), Round Lake , CA"
+		},
+		{
+			"airport": "Sandy Lake Airport ( ZSJ ), Sandy Lake , CA"
+		},
+		{
+			"airport": "South Indian Lake Airport ( XSI ), South Indian Lake , CA"
+		},
+		{
+			"airport": "Stewart Airport ( ZST ), Stewart , CA"
+		},
+		{
+			"airport": "Bloodvein River Airport ( YDV ), Bloodvein River , CA"
+		},
+		{
+			"airport": "Shamattawa Airport ( ZTM ), Shamattawa , CA"
+		},
+		{
+			"airport": "Ignace Municipal Airport ( ZUC ), Ignace , CA"
+		},
+		{
+			"airport": "Churchill Falls Airport ( ZUM ), Churchill Falls , CA"
+		},
+		{
+			"airport": "Lac Brochet Airport ( XLB ), Lac Brochet , CA"
+		},
+		{
+			"airport": "Wollaston Lake Airport ( ZWL ), Wollaston Lake , CA"
+		},
+		{
+			"airport": "Hope Bay Aerodrome ( UZM ), Hope Bay , CA"
+		},
+		{
+			"airport": "Mingan Airport ( YLP ), Longue-Pointe-de-Mingan , CA"
+		},
+		{
+			"airport": "Opinaca Aerodrome ( YOI ), Éléonore Mine , CA"
+		},
+		{
+			"airport": "Dean River Airport ( YRD ), Kimsquit Valley , CA"
+		},
+		{
+			"airport": "Herschel Island Field ( ZHH ), Herschel Island (Yukon Territory) , CA"
 		}
 	]
 }
