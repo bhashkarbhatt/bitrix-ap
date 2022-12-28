@@ -7362,6 +7362,276 @@
 		},
 		{
 			"airport": "Warangal Airport ( WGC ), Warangal , IN"
+		},
+		{
+			"airport": "Alexander Bay Airport ( ALJ ), Alexander Bay , ZA"
+		},
+		{
+			"airport": "Aggeneys Airport ( AGZ ), Aggeneys , ZA"
+		},
+		{
+			"airport": "Alldays Airport ( ADY ), Alldays , ZA"
+		},
+		{
+			"airport": "Bisho Airport ( BIY ), Bisho , ZA"
+		},
+		{
+			"airport": "Bram Fischer International Airport ( BFN ), Bloemfontain , ZA"
+		},
+		{
+			"airport": "Bultfontein Airport ( UTE ), Bultfontein , ZA"
+		},
+		{
+			"airport": "Arathusa Safari Lodge Airport ( ASS ), Arathusa , ZA"
+		},
+		{
+			"airport": "Cradock Airport ( CDO ), Cradock , ZA"
+		},
+		{
+			"airport": "Cape Town International Airport ( CPT ), Cape Town , ZA"
+		},
+		{
+			"airport": "Mubatuba Airport ( DUK ), Mubatuba , ZA"
+		},
+		{
+			"airport": "Zulu Inyala Airport ( PZL ), Phinda , ZA"
+		},
+		{
+			"airport": "Ben Schoeman Airport ( ELS ), East London , ZA"
+		},
+		{
+			"airport": "Empangeni Airport ( EMG ), Empangeni , ZA"
+		},
+		{
+			"airport": "Ellisras Matimba Airport ( ELL ), Ellisras , ZA"
+		},
+		{
+			"airport": "Ficksburg Sentraoes Airport ( FCB ), Ficksburg , ZA"
+		},
+		{
+			"airport": "Grand Central Airport ( GCJ ), Midrand , ZA"
+		},
+		{
+			"airport": "George Airport ( GRJ ), George , ZA"
+		},
+		{
+			"airport": "Giyani Airport ( GIY ), Giyani , ZA"
+		},
+		{
+			"airport": "Rand Airport ( QRA ), Johannesburg , ZA"
+		},
+		{
+			"airport": "Hluhluwe Airport ( HLW ), Hluhluwe , ZA"
+		},
+		{
+			"airport": "Harrismith Airport ( HRS ), Harrismith , ZA"
+		},
+		{
+			"airport": "Hoedspruit Air Force Base Airport ( HDS ), Hoedspruit , ZA"
+		},
+		{
+			"airport": "P C Pelser Airport ( KXE ), Klerksdorp , ZA"
+		},
+		{
+			"airport": "Kimberley Airport ( KIM ), Kimberley , ZA"
+		},
+		{
+			"airport": "Kruger Mpumalanga International Airport ( MQP ), Mpumalanga , ZA"
+		},
+		{
+			"airport": "Komatipoort Airport ( KOF ), Komatipoort , ZA"
+		},
+		{
+			"airport": "Johan Pienaar Airport ( KMH ), Kuruman , ZA"
+		},
+		{
+			"airport": "Kleinsee Airport ( KLZ ), Kleinsee , ZA"
+		},
+		{
+			"airport": "Lanseria International Airport ( HLA ), Johannesburg , ZA"
+		},
+		{
+			"airport": "Lime Acres Finsch Mine Airport ( LMR ), Lime Acres , ZA"
+		},
+		{
+			"airport": "Londolozi Airport ( LDZ ), Londolozi , ZA"
+		},
+		{
+			"airport": "King Shaka International Airport ( DUR ), Durban , ZA"
+		},
+		{
+			"airport": "Lusikisiki Airport ( LUJ ), Lusikisiki , ZA"
+		},
+		{
+			"airport": "Louis Trichardt Airport ( LCD ), Louis Trichardt , ZA"
+		},
+		{
+			"airport": "Langebaanweg Airport ( SDB ), Langebaanweg , ZA"
+		},
+		{
+			"airport": "Ladysmith Airport ( LAY ), Ladysmith , ZA"
+		},
+		{
+			"airport": "Malamala Airport ( AAM ), Malamala , ZA"
+		},
+		{
+			"airport": "Margate Airport ( MGH ), Margate , ZA"
+		},
+		{
+			"airport": "Musina(Messina) Airport ( MEZ ), Musina , ZA"
+		},
+		{
+			"airport": "Mmabatho International Airport ( MBD ), Mafeking , ZA"
+		},
+		{
+			"airport": "Riverside Airport ( LLE ), Malelane , ZA"
+		},
+		{
+			"airport": "Mossel Bay Airport ( MZY ), Mossel Bay , ZA"
+		},
+		{
+			"airport": "Mkuze Airport ( MZQ ), Mkuze , ZA"
+		},
+		{
+			"airport": "Newcastle Airport ( NCS ), Newcastle , ZA"
+		},
+		{
+			"airport": "Ngala Airport ( NGL ), Ngala , ZA"
+		},
+		{
+			"airport": "Nelspruit Airport ( NLP ), Nelspruit , ZA"
+		},
+		{
+			"airport": "Overberg Airport ( OVG ), Overberg , ZA"
+		},
+		{
+			"airport": "Oudtshoorn Airport ( OUH ), Oudtshoorn , ZA"
+		},
+		{
+			"airport": "OR Tambo International Airport ( JNB ), Johannesburg , ZA"
+		},
+		{
+			"airport": "Port Alfred Airport ( AFD ), Port Alfred , ZA"
+		},
+		{
+			"airport": "Chief Dawid Stuurman International Airport ( PLZ ), Gqeberha (Port Elizabeth) , ZA"
+		},
+		{
+			"airport": "Plettenberg Bay Airport ( PBZ ), Plettenberg Bay , ZA"
+		},
+		{
+			"airport": "Hendrik Van Eck Airport ( PHW ), Phalaborwa , ZA"
+		},
+		{
+			"airport": "Port St Johns Airport ( JOH ), Port St Johns , ZA"
+		},
+		{
+			"airport": "Prieska Airport ( PRK ), Prieska , ZA"
+		},
+		{
+			"airport": "Pietermaritzburg Airport ( PZB ), Pietermaritzburg , ZA"
+		},
+		{
+			"airport": "Pilanesberg International Airport ( NTY ), Pilanesberg , ZA"
+		},
+		{
+			"airport": "Polokwane International Airport ( PTG ), Polokwane , ZA"
+		},
+		{
+			"airport": "Potchefstroom Airport ( PCF ), Potchefstroom , ZA"
+		},
+		{
+			"airport": "Queenstown Airport ( UTW ), Queenstown , ZA"
+		},
+		{
+			"airport": "Richards Bay Airport ( RCB ), Richards Bay , ZA"
+		},
+		{
+			"airport": "Reivilo Airport ( RVO ), Reivilo , ZA"
+		},
+		{
+			"airport": "Robertson Airport ( ROD ), Robertson , ZA"
+		},
+		{
+			"airport": "Springbok Airport ( SBU ), Springbok , ZA"
+		},
+		{
+			"airport": "Secunda Airport ( ZEC ), Secunda , ZA"
+		},
+		{
+			"airport": "Sabi Sabi Airport ( GSS ), Belfast , ZA"
+		},
+		{
+			"airport": "Sishen Airport ( SIS ), Sishen , ZA"
+		},
+		{
+			"airport": "Skukuza Airport ( SZK ), Skukuza , ZA"
+		},
+		{
+			"airport": "Thohoyandou Airport ( THY ), Thohoyandou , ZA"
+		},
+		{
+			"airport": "Thaba Nchu Tar Airport ( TCU ), Homeward , ZA"
+		},
+		{
+			"airport": "Tzaneen Airport ( LTA ), Tzaneen , ZA"
+		},
+		{
+			"airport": "Prince Mangosuthu Buthelezi Airport ( ULD ), Ulundi , ZA"
+		},
+		{
+			"airport": "Pierre Van Ryneveld Airport ( UTN ), Upington , ZA"
+		},
+		{
+			"airport": "K. D. Matanzima Airport ( UTT ), Mthatha , ZA"
+		},
+		{
+			"airport": "Vryburg Airport ( VRU ), Vyrburg , ZA"
+		},
+		{
+			"airport": "Virginia Airport ( VIR ), Durban , ZA"
+		},
+		{
+			"airport": "Vredendal Airport ( VRE ), Vredendal , ZA"
+		},
+		{
+			"airport": "Vryheid Airport ( VYD ), Vryheid , ZA"
+		},
+		{
+			"airport": "Wonderboom Airport ( PRY ), Pretoria , ZA"
+		},
+		{
+			"airport": "Waterkloof Air Force Base ( WKF ), Pretoria , ZA"
+		},
+		{
+			"airport": "Motswari Airport ( MWR ), Motswari Private Game Reserve , ZA"
+		},
+		{
+			"airport": "Ulusaba Airport ( ULX ), Ulusaba , ZA"
+		},
+		{
+			"airport": "Tanda Tula Airport ( TDT ), Welverdiend , ZA"
+		},
+		{
+			"airport": "Hazyview Airport ( HZV ), Hazyview , ZA"
+		},
+		{
+			"airport": "Khoka Moya Airport ( KHO ), Khoka Moya , ZA"
+		},
+		{
+			"airport": "Mkambati Airport ( MBM ), Mkambati , ZA"
+		},
+		{
+			"airport": "Inyati Airport ( INY ), Inyati , ZA"
+		},
+		{
+			"airport": "Tshipise Airport ( TSD ), Tshipise , ZA"
+		},
+		{
+			"airport": "Singita Safari Lodge Airport ( SSX ), Singita Safari Lodge , ZA"
+		},
+		{
+			"airport": "Koingnaas Airport ( KIG ), Koingnaas , ZA"
 		}
 	]
 }
