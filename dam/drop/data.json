@@ -6927,6 +6927,441 @@
         },
         {
             "airport": "Herschel Island Field ( ZHH ), Herschel Island (Yukon Territory) , CA"
-        }
+        },
+		{
+			"airport": "Pakyong Airport ( PYG ), Pakyong , IN"
+		},
+		{
+			"airport": "Jindal Vijaynagar Airport ( VDY ), Toranagallu , IN"
+		},
+		{
+			"airport": "Deoghar Airport ( DGH ), , IN"
+		},
+		{
+			"airport": "Itanagar Donyi Polo Hollongi Airport ( HGI ), Hollongi , IN"
+		},
+		{
+			"airport": "Jagdalpur Airport ( JGB ), Jagdalpur , IN"
+		},
+		{
+			"airport": "Neyveli Airport ( NVY ), Neyveli , IN"
+		},
+		{
+			"airport": "Rajouri Airport ( RJI ), Rajouri , IN"
+		},
+		{
+			"airport": "Tezu Airport ( TEI ), Tezu , IN"
+		},
+		{
+			"airport": "Osmanabad Airport ( OMN ), Osmanabad , IN"
+		},
+		{
+			"airport": "Rewa Airport, Chorhata, REWA ( REW ), Rewa , IN"
+		},
+		{
+			"airport": "Diu Airport ( DIU ), Diu , IN"
+		},
+		{
+			"airport": "Birsi Airport ( GDB ), Gondia , IN"
+		},
+		{
+			"airport": "Sardar Vallabhbhai Patel International Airport ( AMD ), Ahmedabad , IN"
+		},
+		{
+			"airport": "Akola Airport ( AKD ), Akola , IN"
+		},
+		{
+			"airport": "Aurangabad Airport ( IXU ), Aurangabad , IN"
+		},
+		{
+			"airport": "Chhatrapati Shivaji International Airport ( BOM ), Mumbai , IN"
+		},
+		{
+			"airport": "Bilaspur Airport ( PAB ), Bilaspur , IN"
+		},
+		{
+			"airport": "Bhuj Airport ( BHJ ), Bhuj , IN"
+		},
+		{
+			"airport": "Belagavi Airport ( IXG ), Belgaum , IN"
+		},
+		{
+			"airport": "Vadodara Airport ( BDQ ), Vadodara , IN"
+		},
+		{
+			"airport": "Raja Bhoj International Airport ( BHO ), Bhopal , IN"
+		},
+		{
+			"airport": "Bhavnagar Airport ( BHU ), Bhavnagar , IN"
+		},
+		{
+			"airport": "Daman Airport ( NMB ), Daman , IN"
+		},
+		{
+			"airport": "Guna Airport ( GUX ), , IN"
+		},
+		{
+			"airport": "Dabolim Airport ( GOI ), Vasco da Gama , IN"
+		},
+		{
+			"airport": "Hubli Airport ( HBX ), Hubli , IN"
+		},
+		{
+			"airport": "Devi Ahilyabai Holkar Airport ( IDR ), Indore , IN"
+		},
+		{
+			"airport": "Jabalpur Airport ( JLR ), , IN"
+		},
+		{
+			"airport": "Jamnagar Airport ( JGA ), Jamnagar , IN"
+		},
+		{
+			"airport": "Kandla Airport ( IXY ), Kandla , IN"
+		},
+		{
+			"airport": "Khajuraho Airport ( HJR ), Khajuraho , IN"
+		},
+		{
+			"airport": "Kolhapur Airport ( KLH ), , IN"
+		},
+		{
+			"airport": "Keshod Airport ( IXK ), Keshod , IN"
+		},
+		{
+			"airport": "Nanded Airport ( NDC ), Nanded , IN"
+		},
+		{
+			"airport": "Dr. Babasaheb Ambedkar International Airport ( NAG ), Nagpur , IN"
+		},
+		{
+			"airport": "Nashik Airport ( ISK ), Nasik , IN"
+		},
+		{
+			"airport": "Pune Airport / Lohagaon Air Force Station ( PNQ ), Pune , IN"
+		},
+		{
+			"airport": "Porbandar Airport ( PBD ), Porbandar , IN"
+		},
+		{
+			"airport": "Ratnagiri Airport ( RTC ), , IN"
+		},
+		{
+			"airport": "Rajkot Airport ( RAJ ), Rajkot , IN"
+		},
+		{
+			"airport": "Swami Vivekananda Airport ( RPR ), Raipur , IN"
+		},
+		{
+			"airport": "Shirdi Airport ( SAG ), Kakadi , IN"
+		},
+		{
+			"airport": "Solapur Airport ( SSE ), Solapur , IN"
+		},
+		{
+			"airport": "Surat Airport ( STV ), , IN"
+		},
+		{
+			"airport": "Maharana Pratap Airport ( UDR ), Udaipur , IN"
+		},
+		{
+			"airport": "Darbhanga Airport ( DBR ), Darbhanga , IN"
+		},
+		{
+			"airport": "Along Airport ( IXV ), , IN"
+		},
+		{
+			"airport": "Agartala - Maharaja Bir Bikram Airport ( IXA ), Agartala , IN"
+		},
+		{
+			"airport": "Bagdogra Airport ( IXB ), Siliguri , IN"
+		},
+		{
+			"airport": "Balurghat Airport ( RGH ), Balurghat , IN"
+		},
+		{
+			"airport": "Shillong Airport ( SHL ), Shillong , IN"
+		},
+		{
+			"airport": "Biju Patnaik Airport ( BBI ), Bhubaneswar , IN"
+		},
+		{
+			"airport": "Netaji Subhash Chandra Bose International Airport ( CCU ), Kolkata , IN"
+		},
+		{
+			"airport": "Cooch Behar Airport ( COH ), Cooch Behar , IN"
+		},
+		{
+			"airport": "Dhanbad Airport ( DBD ), , IN"
+		},
+		{
+			"airport": "Kazi Nazrul Islam Airport ( RDP ), Durgapur , IN"
+		},
+		{
+			"airport": "Daporijo Airport ( DEP ), Daporijo , IN"
+		},
+		{
+			"airport": "Gorakhpur Airport ( GOP ), Gorakhpur , IN"
+		},
+		{
+			"airport": "Lokpriya Gopinath Bordoloi International Airport ( GAU ), Guwahati , IN"
+		},
+		{
+			"airport": "Gaya Airport ( GAY ), , IN"
+		},
+		{
+			"airport": "Imphal Airport ( IMF ), Imphal , IN"
+		},
+		{
+			"airport": "Jharsuguda Airport ( JRG ), , IN"
+		},
+		{
+			"airport": "Jeypore Airport ( PYB ), Jeypore , IN"
+		},
+		{
+			"airport": "Sonari Airport ( IXW ), Jamshedpur , IN"
+		},
+		{
+			"airport": "Jorhat Airport ( JRH ), Jorhat , IN"
+		},
+		{
+			"airport": "Kushinagar International Airport ( KBK ), Kushinagar , IN"
+		},
+		{
+			"airport": "Kamalpur Airport ( IXQ ), Manik Bhandar , IN"
+		},
+		{
+			"airport": "Kailashahar Airport ( IXH ), Kailashahar , IN"
+		},
+		{
+			"airport": "Silchar Airport ( IXS ), Silchar , IN"
+		},
+		{
+			"airport": "Khowai Airport ( IXN ), Khowai , IN"
+		},
+		{
+			"airport": "Lengpui Airport ( AJL ), Aizawl (Lengpui) , IN"
+		},
+		{
+			"airport": "Lilabari North Lakhimpur Airport ( IXI ), Lilabari , IN"
+		},
+		{
+			"airport": "Malda Airport ( LDA ), Malda , IN"
+		},
+		{
+			"airport": "Dibrugarh Airport ( DIB ), Dibrugarh , IN"
+		},
+		{
+			"airport": "Dimapur Airport ( DMU ), Dimapur , IN"
+		},
+		{
+			"airport": "Muzaffarpur Airport ( MZU ), Muzaffarpur , IN"
+		},
+		{
+			"airport": "Pasighat Airport ( IXT ), Pasighat , IN"
+		},
+		{
+			"airport": "Jay Prakash Narayan Airport ( PAT ), Patna , IN"
+		},
+		{
+			"airport": "Birsa Munda Airport ( IXR ), Ranchi , IN"
+		},
+		{
+			"airport": "Rourkela Airport ( RRK ), Rourkela , IN"
+		},
+		{
+			"airport": "Rupsi Airport ( RUP ), Rupsi , IN"
+		},
+		{
+			"airport": "Tezpur Airport ( TEZ ), , IN"
+		},
+		{
+			"airport": "Visakhapatnam Airport / INS Dega ( VTZ ), Visakhapatnam , IN"
+		},
+		{
+			"airport": "Ziro Airport ( ZER ), Ziro , IN"
+		},
+		{
+			"airport": "Agra Airport / Agra Air Force Station ( AGR ), Agra , IN"
+		},
+		{
+			"airport": "Prayagraj Deendayal Upadhyay Airport / Bamrauli Air Force Station ( IXD ), Allahabad , IN"
+		},
+		{
+			"airport": "Sri Guru Ram Dass Jee International Airport ( ATQ ), Amritsar , IN"
+		},
+		{
+			"airport": "Adampur Airport ( AIP ), Adampur , IN"
+		},
+		{
+			"airport": "Nal Airport ( BKB ), Bikaner , IN"
+		},
+		{
+			"airport": "Lal Bahadur Shastri Airport ( VNS ), Varanasi , IN"
+		},
+		{
+			"airport": "Kullu Manali Airport ( KUU ), Bhuntar , IN"
+		},
+		{
+			"airport": "Bhatinda Air Force Station ( BUP ), , IN"
+		},
+		{
+			"airport": "Bareilly Air Force Station ( BEK ), Bareilly , IN"
+		},
+		{
+			"airport": "Chandigarh International Airport ( IXC ), Chandigarh , IN"
+		},
+		{
+			"airport": "Kanpur Airport ( KNU ), Kanpur , IN"
+		},
+		{
+			"airport": "Dehradun Jolly Grant Airport ( DED ), Dehradun (Jauligrant) , IN"
+		},
+		{
+			"airport": "Indira Gandhi International Airport ( DEL ), New Delhi , IN"
+		},
+		{
+			"airport": "Kangra Airport ( DHM ), Gaggal , IN"
+		},
+		{
+			"airport": "Gwalior Airport ( GWL ), Gwalior , IN"
+		},
+		{
+			"airport": "Hissar Airport ( HSS ), , IN"
+		},
+		{
+			"airport": "Jodhpur Airport ( JDH ), Jodhpur , IN"
+		},
+		{
+			"airport": "Jaipur International Airport ( JAI ), Jaipur , IN"
+		},
+		{
+			"airport": "Jaisalmer Airport ( JSA ), , IN"
+		},
+		{
+			"airport": "Jammu Airport ( IXJ ), Jammu , IN"
+		},
+		{
+			"airport": "Kishangarh Airport Ajmer ( KQH ), Ajmer (Kishangarh) , IN"
+		},
+		{
+			"airport": "Kota Airport ( KTU ), Kota , IN"
+		},
+		{
+			"airport": "Ludhiana Airport ( LUH ), , IN"
+		},
+		{
+			"airport": "Leh Kushok Bakula Rimpochee Airport ( IXL ), Leh , IN"
+		},
+		{
+			"airport": "Chaudhary Charan Singh International Airport ( LKO ), Lucknow , IN"
+		},
+		{
+			"airport": "Pathankot Airport ( IXP ), Pathankot , IN"
+		},
+		{
+			"airport": "Pantnagar Airport ( PGH ), Pantnagar , IN"
+		},
+		{
+			"airport": "Shimla Airport ( SLV ), Jubbarhatti , IN"
+		},
+		{
+			"airport": "Sheikh ul Alam International Airport ( SXR ), Srinagar , IN"
+		},
+		{
+			"airport": "Satna Airport ( TNI ), , IN"
+		},
+		{
+			"airport": "Murod Kond Airport ( LTU ), Latur , IN"
+		},
+		{
+			"airport": "Tuticorin Airport ( TCR ), Vagaikulam , IN"
+		},
+		{
+			"airport": "Agatti Airport ( AGX ), Agatti , IN"
+		},
+		{
+			"airport": "Bellary Airport ( BEP ), Bellary , IN"
+		},
+		{
+			"airport": "Kempegowda International Airport ( BLR ), Bangalore , IN"
+		},
+		{
+			"airport": "Bidar Airport / Bidar Air Force Station ( IXX ), Bidar , IN"
+		},
+		{
+			"airport": "Vijayawada Airport ( VGA ), Gannavaram , IN"
+		},
+		{
+			"airport": "Coimbatore International Airport ( CJB ), Coimbatore , IN"
+		},
+		{
+			"airport": "Cochin International Airport ( COK ), Kochi , IN"
+		},
+		{
+			"airport": "Calicut International Airport ( CCJ ), Calicut , IN"
+		},
+		{
+			"airport": "Kadapa Airport ( CDP ), Kadapa , IN"
+		},
+		{
+			"airport": "Car Nicobar Air Force Base ( CBD ), IAF Camp , IN"
+		},
+		{
+			"airport": "Rajiv Gandhi International Airport ( HYD ), Hyderabad , IN"
+		},
+		{
+			"airport": "Begumpet Airport ( BPM ), Hyderabad , IN"
+		},
+		{
+			"airport": "Kannur International Airport ( CNN ), Kannur , IN"
+		},
+		{
+			"airport": "Kurnool Airport ( KJB ), Orvakal , IN"
+		},
+		{
+			"airport": "Madurai Airport ( IXM ), Madurai , IN"
+		},
+		{
+			"airport": "Mangalore International Airport ( IXE ), Mangalore , IN"
+		},
+		{
+			"airport": "Chennai International Airport ( MAA ), Chennai , IN"
+		},
+		{
+			"airport": "Mysore Airport ( MYQ ), Mysore , IN"
+		},
+		{
+			"airport": "Veer Savarkar International Airport / INS Utkrosh ( IXZ ), Port Blair , IN"
+		},
+		{
+			"airport": "Pondicherry Airport ( PNY ), Puducherry (Pondicherry) , IN"
+		},
+		{
+			"airport": "Sri Sathya Sai Airport ( PUT ), Puttaparthi , IN"
+		},
+		{
+			"airport": "Basanth Nagar Airport ( RMD ), Ramagundam , IN"
+		},
+		{
+			"airport": "Rajahmundry Airport ( RJA ), Madhurapudi , IN"
+		},
+		{
+			"airport": "Salem Airport ( SXV ), Salem , IN"
+		},
+		{
+			"airport": "Thanjavur Air Force Station ( TJV ), Thanjavur , IN"
+		},
+		{
+			"airport": "Tirupati Airport ( TIR ), Tirupati , IN"
+		},
+		{
+			"airport": "Tiruchirappalli International Airport ( TRZ ), Tiruchirappalli , IN"
+		},
+		{
+			"airport": "Trivandrum International Airport ( TRV ), Thiruvananthapuram , IN"
+		},
+		{
+			"airport": "Warangal Airport ( WGC ), Warangal , IN"
+		}
 	]
 }
